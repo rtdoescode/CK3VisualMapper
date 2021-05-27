@@ -1,0 +1,1 @@
+This is intended as a tool for use with CK3 modding. A province.png image needs to be supplied and loaded, then the tool will allow you to visually select provinces in the image and edit their associated data.
